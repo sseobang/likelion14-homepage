@@ -77,7 +77,6 @@ const StyledSpan3 = styled.span`
 
 //멋쟁이사자처럼 스타일
 const StyledP = styled.p`
-    flex: ;
     text-align: center;
     justify-content: center;
     display: flex;
